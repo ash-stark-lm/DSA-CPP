@@ -1,2 +1,1 @@
-Bubble Sorted array is: 
-1 2 2 3 3 
+Element found at index 3
